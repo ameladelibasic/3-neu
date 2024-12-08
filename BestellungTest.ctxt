@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BestellungTest
+comment0.text=\r\n\ Die\ Testklasse\ BestellungTest\ \u00FCberpr\u00FCft\ die\ Funktionalit\u00E4t\ der\ Klasse\ Bestellung.\r\n\ Dabei\ werden\ verschiedene\ Szenarien\ getestet,\ einschlie\u00DFlich\:\r\n\ -\ Hinzuf\u00FCgen\ und\ Verwaltung\ von\ Produkten\ in\ einer\ Bestellung.\r\n\ -\ Berechnung\ und\ Setzen\ von\ Beschaffungs-\ und\ Lieferzeiten.\r\n\ -\ \u00DCberpr\u00FCfung\ der\ Bestellbest\u00E4tigung.\r\n\ -\ Umgang\ mit\ ung\u00FCltigen\ Eingaben\ f\u00FCr\ Bestellungen.\r\n\ \r\n\ Diese\ Tests\ dienen\ zur\ Sicherstellung\ der\ Korrektheit\ und\ Robustheit\ der\ Implementierung.\r\n\ \r\n\ @author\ Amela\ Delibasic,\ Lino\ Reye,\ Naya\ Zumstein,\ Nikolai\ Pr\u00F6bstle\ und\ Yannick\ Albrecht\ (GBI,\ Gruppe\ 12)\r\n\ @version\ Aufgabe\ 2\ (24.\ November\ 2024)\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ tearDown()
+comment3.params=
+comment3.target=void\ testeProdukteHinzufuegen()
+comment4.params=
+comment4.target=void\ testeZeiten()
+comment5.params=
+comment5.target=void\ testeBestellBestaetigung()
+comment6.params=
+comment6.target=void\ testeUngueltigeBestellung()
+numComments=7

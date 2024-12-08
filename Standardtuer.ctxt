@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Standardtuer
+comment0.text=\r\n\ Die\ Klasse\ Standardtuer\ ist\ eine\ Spezialisierung\ der\ Klasse\ Produkt\ und\ repr\u00E4sentiert\ eine\ T\u00FCr,\ \r\n\ die\ f\u00FCr\ die\ Produktion\ spezifische\ Materialeinheiten\ ben\u00F6tigt.\ \r\n\ Die\ ben\u00F6tigten\ Materialeinheiten\ und\ die\ Produktionszeit\ sind\ statisch\ definiert,\ da\ sie\ f\u00FCr\ alle\ Standardt\u00FCren\ gleich\ sind.\r\n\ \r\n\ Diese\ Klasse\ erg\u00E4nzt\ die\ Funktionalit\u00E4t\ der\ Superklasse\ durch\ Eigenschaften,\ \r\n\ die\ spezifisch\ f\u00FCr\ die\ Produktion\ von\ Standardt\u00FCren\ relevant\ sind.\r\n\ \r\n\ \r\n\ @author\ Amela\ Delibasic,\ Lino\ Reye,\ Naya\ Zumstein,\ Nikolai\ Pr\u00F6bstle\ und\ Yannick\ Albrecht\ (GBI,\ Gruppe\ 12)\r\n\ @version\ Aufgabe\ 2\ (24.\ November\ 2024)\r\n
+comment1.params=
+comment1.target=Standardtuer()
+comment1.text=\r\n\ Standardkonstruktor\ der\ Klasse\ Standardtuer.\r\n\ Da\ keine\ zus\u00E4tzlichen\ Initialisierungen\ erforderlich\ sind,\ wird\ der\ Konstruktor\ der\ Superklasse\ optional\ aufgerufen.\r\n
+comment2.params=
+comment2.target=int\ gibHolzeinheiten()
+comment2.text=\r\n\ Gibt\ die\ ben\u00F6tigte\ Anzahl\ Holzeinheiten\ f\u00FCr\ die\ Produktion\ einer\ Standardt\u00FCr\ zur\u00FCck.\r\n\ \r\n\ @return\ Anzahl\ der\ Holzeinheiten\ (int)\r\n
+comment3.params=
+comment3.target=int\ gibSchrauben()
+comment3.text=\r\n\ Gibt\ die\ ben\u00F6tigte\ Anzahl\ Schrauben\ f\u00FCr\ die\ Produktion\ einer\ Standardt\u00FCr\ zur\u00FCck.\r\n\ \r\n\ @return\ Anzahl\ der\ Schrauben\ (int)\r\n
+comment4.params=
+comment4.target=int\ gibFarbeinheiten()
+comment4.text=\r\n\ Gibt\ die\ ben\u00F6tigte\ Anzahl\ Farbeinheiten\ f\u00FCr\ die\ Produktion\ einer\ Standardt\u00FCr\ zur\u00FCck.\r\n\ \r\n\ @return\ Anzahl\ der\ Farbeinheiten\ (int)\r\n
+comment5.params=
+comment5.target=int\ gibKartoneinheiten()
+comment5.text=\r\n\ Gibt\ die\ ben\u00F6tigte\ Anzahl\ Kartoneinheiten\ f\u00FCr\ die\ Produktion\ einer\ Standardt\u00FCr\ zur\u00FCck.\r\n\ \r\n\ @return\ Anzahl\ der\ Kartoneinheiten\ (int)\r\n
+comment6.params=
+comment6.target=int\ gibProduktionszeit()
+comment6.text=\r\n\ Gibt\ die\ Produktionszeit\ f\u00FCr\ die\ Herstellung\ einer\ Standardt\u00FCr\ zur\u00FCck.\r\n\ \r\n\ @return\ Produktionszeit\ in\ Minuten\ (int)\r\n
+numComments=7

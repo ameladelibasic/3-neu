@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LieferantTest
+comment0.text=\n\ Die\ Testklasse\ LieferantTest\ \u00FCberpr\u00FCft\ die\ Funktionalit\u00E4t\ der\ Klasse\ Lieferant.\n\ Der\ Fokus\ liegt\ dabei\ auf\ der\ Materialbeschaffung,\ welche\ durch\ die\ Methode\ \n\ `bestellungAufgeben`\ simuliert\ wird.\ Die\ Tests\ basieren\ auf\ der\ \u00DCberpr\u00FCfung\ \n\ der\ Konsolenausgabe,\ die\ die\ Nachbestellung\ und\ die\ Best\u00E4tigung\ der\ Materiallieferung\ anzeigt.\n\ \n\ Diese\ Tests\ stellen\ sicher,\ dass\ der\ Lieferant\ korrekt\ aufgerufen\ wird\ und\ seine\ Funktion\ erf\u00FCllt.\n\ \n\ @author\ Amela\ Delibasic,\ Lino\ Reye,\ Naya\ Zumstein,\ Nikolai\ Pr\u00F6bstle\ und\ Yannick\ Albrecht\ (GBI,\ Gruppe\ 12)\n\ @version\ Aufgabe\ 2\ (24.\ November\ 2024)\n
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ tearDown()
+comment3.params=
+comment3.target=void\ testeMaterialBeschaffung()
+numComments=4

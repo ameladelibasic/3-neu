@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ProduktTest
+comment0.text=\r\n\ Klasse\ ProduktTest\r\n\r\n\ \r\n\ @author\ Amela\ Delibasic,\ Lino\ Reye,\ Naya\ Zumstein,\ Nikolai\ Pr\u00F6bstle\ und\ Yannick\ Albrecht\ (GBI,\ Gruppe\ 12)\r\n\ @version\ Aufgabe\ 2\ (24.\ November\ 2024)\r\n
+comment1.params=
+comment1.target=ProduktTest()
+comment1.text=\r\n\ Konstruktor\ von\ ProduktTest\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Anweisungen\ vor\ jedem\ Testlauf\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Anweisungen\ nach\ jedem\ Testlauf\r\n
+comment4.params=
+comment4.target=void\ testeZustandsAenderung()
+comment5.params=
+comment5.target=void\ testeUngueltigerZustand()
+numComments=6

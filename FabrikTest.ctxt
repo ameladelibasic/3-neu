@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=FabrikTest
+comment0.text=\n\ Die\ Testklasse\ FabrikTest\ \u00FCberpr\u00FCft\ die\ Funktionalit\u00E4t\ der\ Klasse\ Fabrik.\n\ Dabei\ werden\ verschiedene\ Szenarien\ getestet,\ einschliesslich\:\n\ -\ Das\ Aufgeben\ von\ Bestellungen\ mit\ g\u00FCltigen\ und\ ung\u00FCltigen\ Werten.\n\ -\ Die\ Berechnung\ der\ Lieferzeiten\ f\u00FCr\ Bestellungen.\n\ -\ Die\ korrekte\ Verwaltung\ und\ Auff\u00FCllung\ des\ Lagers.\n\ \n\ Diese\ Tests\ dienen\ zur\ Sicherstellung\ der\ Robustheit\ und\ Korrektheit\ der\ Implementierung.\n\ \n\ @author\ Amela\ Delibasic,\ Lino\ Reye,\ Naya\ Zumstein,\ Nikolai\ Pr\u00F6bstle\ und\ Yannick\ Albrecht\ (GBI,\ Gruppe\ 12)\n\ @version\ Aufgabe\ 2\ (24.\ November\ 2024)\n
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ tearDown()
+comment3.params=
+comment3.target=void\ testeGueltigeBestellung()
+comment4.params=
+comment4.target=void\ testeUngueltigeBestellung()
+comment5.params=
+comment5.target=void\ testeLieferzeitBerechnung()
+comment6.params=
+comment6.target=void\ testeLagerAuffuellen()
+numComments=7

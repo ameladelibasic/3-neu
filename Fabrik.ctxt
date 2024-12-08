@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Fabrik
+comment0.text=\n\ Die\ Klasse\ Fabrik\ nimmt\ Bestellungen\ entgegen\ und\ gibt\ diese\ auf\ der\ Konsole\ aus.\ \n\ Die\ Klasse\ verwaltet\ die\ ArrayList\ `bestellungen`,\ die\ ausschliesslich\ aus\ Objekten\ der\ Klasse\ `Bestellung`\ besteht.\n\ Zus\u00E4tzlich\ verwaltet\ die\ Klasse\ die\ laufende\ Bestellnummer\ und\ eine\ Instanz\ der\ Klasse\ `Lager`,\ \n\ um\ Materialverf\u00FCgbarkeit\ und\ Beschaffung\ zu\ pr\u00FCfen.\n\ \n\ \n\ @author\ Amela\ Delibasic,\ Lino\ Reye,\ Naya\ Zumstein,\ Nikolai\ Pr\u00F6bstle\ und\ Yannick\ Albrecht\ (GBI,\ Gruppe\ 12)\n\ @version\ Aufgabe\ 2\ (24.\ November\ 2024)\n
+comment1.params=
+comment1.target=Fabrik()
+comment1.text=\n\ Konstruktor\ der\ Klasse\ Fabrik.\n\ Initialisiert\ die\ globale\ Liste\ `bestellungen`,\ setzt\ die\ Bestellnummer\ auf\ 0\ und\ erstellt\ eine\ Instanz\ der\ Klasse\ `Lager`.\n
+comment2.params=
+comment2.target=java.util.ArrayList\ gibBestellungen()
+comment2.text=\n\ Gibt\ die\ Liste\ aller\ Bestellungen\ zur\u00FCck.\n\ \n\ @return\ Die\ Liste\ der\ Bestellungen\ (ArrayList)\n
+comment3.params=standardTueren\ premiumTueren
+comment3.target=void\ bestellungAufgeben(int,\ int)
+comment3.text=\n\ Die\ Methode\ `bestellungAufgeben`\ erm\u00F6glicht\ die\ Platzierung\ einer\ neuen\ Bestellung.\ \n\ Dabei\ m\u00FCssen\ die\ Anzahl\ der\ Standard-\ und\ Premiumt\u00FCren\ angegeben\ werden.\ \n\ Die\ Methode\ \u00FCberpr\u00FCft\ die\ Eingabe\ auf\ Korrektheit\ und\ f\u00FCgt\ die\ Bestellung\ der\ Liste\ hinzu,\ wenn\ diese\ g\u00FCltig\ ist.\n\ \n\ @param\ standardTueren\ Anzahl\ der\ zu\ bestellenden\ Standardt\u00FCren\ (int).\n\ @param\ premiumTueren\ Anzahl\ der\ zu\ bestellenden\ Premiumt\u00FCren\ (int).\n
+comment4.params=
+comment4.target=void\ bestellungAusgeben()
+numComments=5

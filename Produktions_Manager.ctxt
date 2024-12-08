@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Produktions_Manager
+comment1.params=
+comment1.target=Produktions_Manager()
+comment2.params=bestellung
+comment2.target=void\ bestellungHinzufuegen(Bestellung)
+comment3.params=bestellung
+comment3.target=void\ starteProduktion(Bestellung)
+comment4.params=
+comment4.target=void\ pruefeBestellungen()
+comment5.params=
+comment5.target=void\ run()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

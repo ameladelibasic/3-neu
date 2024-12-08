@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Produkt
+comment0.text=\r\n\ Die\ Klasse\ Produkt\ repr\u00E4sentiert\ die\ abstrakte\ Grundlage\ f\u00FCr\ verschiedene\ Produktarten\ wie\ \r\n\ Standardt\u00FCren\ und\ Premiumt\u00FCren.\ Sie\ enth\u00E4lt\ gemeinsame\ Eigenschaften\ und\ Methoden,\ \r\n\ die\ f\u00FCr\ alle\ Produkte\ gelten.\r\n\ \r\n\ Der\ Zustand\ eines\ Produkts\ kann\ durch\ eine\ ganze\ Zahl\ repr\u00E4sentiert\ werden,\ die\ den\ Produktions-\ \r\n\ und\ Lieferstatus\ beschreibt.\r\n\ \r\n\ M\u00F6gliche\ Zust\u00E4nde\:\r\n\ -\ 0\:\ Bestellt\r\n\ -\ 1\:\ In\ Produktion\r\n\ -\ 2\:\ Bereit\ f\u00FCr\ Auslieferung\r\n\ -\ 3\:\ Ausgeliefert\r\n\ \r\n\ Diese\ Klasse\ kann\ erweitert\ werden,\ um\ zus\u00E4tzliche\ spezifische\ Funktionalit\u00E4ten\ f\u00FCr\ unterschiedliche\ \r\n\ Produkte\ bereitzustellen.\r\n\ \r\n\ \r\n\ @author\ Amela\ Delibasic,\ Lino\ Reye,\ Naya\ Zumstein,\ Nikolai\ Pr\u00F6bstle\ und\ Yannick\ Albrecht\ (GBI,\ Gruppe\ 12)\r\n\ @version\ Aufgabe\ 2\ (24.\ November\ 2024)\r\n
+comment1.params=
+comment1.target=Produkt()
+comment1.text=\r\n\ Konstruktor\ der\ Klasse\ Produkt.\r\n\ Initialisiert\ das\ Produkt\ mit\ dem\ Standardzustand\ (0\:\ Bestellt).\r\n
+comment2.params=
+comment2.target=int\ aktuellerZustand()
+comment2.text=\r\n\ Gibt\ den\ aktuellen\ Zustand\ des\ Produkts\ zur\u00FCck.\r\n\ \r\n\ @return\ Der\ aktuelle\ Zustand\ des\ Produkts\ (int)\r\n
+comment3.params=zustand
+comment3.target=void\ zustandAendern(int)
+comment3.text=\r\n\ \u00C4ndert\ den\ Zustand\ des\ Produkts.\r\n\ \r\n\ @param\ zustand\ Der\ neue\ Zustand\ des\ Produkts\ (0\ bis\ 3)\r\n
+numComments=4

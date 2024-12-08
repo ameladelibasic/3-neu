@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\n\ Die\ Testklasse\ `Main`\ \u00FCberpr\u00FCft\ die\ Funktionalit\u00E4t\ der\ Klasse\ `Fabrik`\ durch\ das\ Simulieren\ verschiedener\ Bestellszenarien.\ \n\ Es\ werden\ g\u00FCltige\ und\ ung\u00FCltige\ Eingaben\ getestet,\ um\ die\ Robustheit\ und\ Korrektheit\ der\ Implementierung\ sicherzustellen.\n\ \n\ Szenarien\ umfassen\:\n\ -\ G\u00FCltige\ Bestellungen\ mit\ verschiedenen\ Kombinationen\ von\ Standard-\ und\ Premiumt\u00FCren.\n\ -\ Ung\u00FCltige\ Eingaben\ wie\ negative\ Werte\ oder\ \u00FCberm\u00E4ssig\ grosse\ Bestellungen.\n\ -\ Testf\u00E4lle\ mit\ leerer\ Bestellung.\n\ \n\ @author\ Amela\ Delibasic,\ Lino\ Reye,\ Naya\ Zumstein,\ Nikolai\ Pr\u00F6bstle\ und\ Yannick\ Albrecht\ (GBI,\ Gruppe\ 12)\n\ @version\ Aufgabe\ 2\ (24.\ November\ 2024)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Hauptmethode\ der\ Klasse,\ die\ verschiedene\ Testf\u00E4lle\ f\u00FCr\ die\ Bestellfunktionalit\u00E4t\ in\ der\ Fabrik\ ausf\u00FChrt.\ \n\ Nach\ jeder\ Bestellung\ wird\ der\ aktuelle\ Status\ aller\ Bestellungen\ ausgegeben,\ um\ die\ Ergebnisse\ zu\ \u00FCberpr\u00FCfen.\n\ \n\ Getestete\ Szenarien\:\n\ -\ G\u00FCltige\ Bestellungen\ mit\ Standard-\ und\ Premiumt\u00FCren.\n\ -\ Negative\ Eingaben.\n\ -\ \u00DCberm\u00E4ssig\ grosse\ Bestellmengen.\n\ -\ Leere\ Bestellungen\ (0\ Standard-\ und\ Premiumt\u00FCren).\n
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=StandardtuerTest
+comment0.text=\r\n\ Die\ Testklasse\ StandardtuerTest\ \u00FCberpr\u00FCft\ die\ Funktionalit\u00E4t\ der\ Klasse\ Standardtuer.\r\n\ Dabei\ werden\ die\ statischen\ Methoden\ getestet,\ welche\ die\ Materialanforderungen\ \r\n\ und\ Produktionszeiten\ f\u00FCr\ eine\ Standardt\u00FCr\ zur\u00FCckgeben.\r\n\ \r\n\ Diese\ Tests\ gew\u00E4hrleisten\ die\ korrekte\ Implementierung\ der\ f\u00FCr\ die\ Produktion\ \r\n\ einer\ Standardt\u00FCr\ ben\u00F6tigten\ Ressourcen\ und\ Zeit.\r\n\ \r\n\ @author\ Amela\ Delibasic,\ Lino\ Reye,\ Naya\ Zumstein,\ Nikolai\ Pr\u00F6bstle\ und\ Yannick\ Albrecht\ (GBI,\ Gruppe\ 12)\r\n\ @version\ Aufgabe\ 2\ (24.\ November\ 2024)\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ tearDown()
+comment3.params=
+comment3.target=void\ testeMaterialAnforderungen()
+numComments=4
